@@ -122,9 +122,9 @@ marketing:
   google_site_verification: ''
   baidu_site_verification: ''
   baidu_tongji: ''
-cms:
-  branch: main
-  local_backend: false
+# cms:
+#   branch: main
+#   local_backend: false
 icon:
   pack:
     ai: true

@@ -8,13 +8,15 @@ superuser: true
 # Role/position
 role: 教授
 
+weight: 10
+
 # Organizations/Affiliations
 organizations:
 - name: 上海交通大学
   url: "https://www.sjtu.edu.cn"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: 上海交通大学网络空间安全学院副院长
 
 # interests:
 # - Artificial Intelligence
